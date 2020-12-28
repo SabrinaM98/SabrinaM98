@@ -1,4 +1,4 @@
-![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
+<img align="right" width="350" height="454" src="https://github.com/SabrinaM98/SabrinaM98/blob/main/tumblr_e121ca98f2ee5e802f74e7b245cf335b_712b5409_400.gif">
 
 # Hi, I'm Sabrina ฅ^•ﻌ•^ฅ
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
