@@ -7,7 +7,9 @@
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rolim.sabrina@hotmail.com)](mailto:rolim.sabrina@hotmail.com)
 
 🌙 Soon to graduate computer engineer student 
+<br>
 🌙 Working mostly with Python and technologies such as REACT 
+<br>
 🌙 The signal processing field is my passion ♡
 
 ## Languages/Technologies I've worked with
