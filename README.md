@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="">
+<img align="right" width="350" height="454" src="">
 
 
 # Hi, I'm Sabrina ฅ^•ﻌ•^ฅ
