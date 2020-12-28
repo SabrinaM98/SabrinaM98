@@ -34,11 +34,11 @@
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 ![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
+<!--
 <a href="https://github.com/SabrinaM98">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SabrinaM98&show_icons=true&theme=dark&line_height=27" alt="Sabrina's github stats"/>
 </a>
-
+-->
 
 ---
 
