@@ -1,5 +1,4 @@
-<img align="right" width="350" height="454" src="">
-
+![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
 
 # Hi, I'm Sabrina ฅ^•ﻌ•^ฅ
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
