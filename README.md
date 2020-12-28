@@ -6,8 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinarolim98@gmail.com)](mailto:sabrinarolim98@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rolim.sabrina@hotmail.com)](mailto:rolim.sabrina@hotmail.com)
 
-Aspiring computer engineer student currently working mostly with Python and technologies such as REACT. 
-The signal processing field is my passion ♡
+🌙 Soon to graduate computer engineer student 
+🌙 Working mostly with Python and technologies such as REACT 
+🌙 The signal processing field is my passion ♡
 
 ## Languages/Technologies I've worked with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
