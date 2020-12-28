@@ -6,6 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinarolim98@gmail.com)](mailto:sabrinarolim98@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rolim.sabrina@hotmail.com)](mailto:rolim.sabrina@hotmail.com)
 
+🌙 Fluent in English and Brazilian Portuguese
+<br>
 🌙 Soon to graduate computer engineer student 
 <br>
 🌙 Working mostly with Python and technologies such as REACT 
