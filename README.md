@@ -49,9 +49,10 @@
 <details>
   <summary>:rocket: Credits</summary>
   ⭐️ Badges credits to [LuizCarlosAbbott](https://github.com/LuizCarlosAbbott)
+   <br>
   ⭐️ Layout credits to [FatChicken277](https://github.com/FatChicken277) and [anajuliabit](https://github.com/anajuliabit)
 </details>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/anajuliabit)](https://github.com/anajuliabit)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/SabrinaM98)](https://github.com/SabrinaM98)
 
 <!--[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)-->
