@@ -47,6 +47,9 @@
 
 ---
 
-⭐️ Badges credits to [LuizCarlosAbbott](https://github.com/LuizCarlosAbbott)
+<details>
+  <summary>:zap: Credits</summary>
+  ⭐️ Badges credits to [LuizCarlosAbbott](https://github.com/LuizCarlosAbbott)
 
-⭐️ Layout credits to [FatChicken277](https://github.com/FatChicken277)
+  ⭐️ Layout credits to [FatChicken277](https://github.com/FatChicken277)
+</details>
