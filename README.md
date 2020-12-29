@@ -2,7 +2,7 @@
 
 # Hi, I'm Sabrina ฅ^•ﻌ•^ฅ
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)
+<!--[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)-->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinarolim98@gmail.com)](mailto:sabrinarolim98@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rolim.sabrina@hotmail.com)](mailto:rolim.sabrina@hotmail.com)
 
@@ -18,7 +18,7 @@
 
 ## Languages/Technologies I've worked with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/LuizCarlosAbbott/)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)
@@ -39,16 +39,16 @@
 ![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
-<!--
-<a href="https://github.com/SabrinaM98">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SabrinaM98&show_icons=true&theme=dark&line_height=27" alt="Sabrina's github stats"/>
-</a>
--->
-
 ---
+<details>
+  <summary>:rocket: GitHub Stats</summary>
+   <a href="https://github.com/SabrinaM98">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SabrinaM98&show_icons=true&theme=dark&line_height=27" alt="Sabrina's github stats"/>
+   </a>
+</details>
 
 <details>
-  <summary>:zap: Credits</summary>
+  <summary>:rocket: Credits</summary>
   ⭐️ Badges credits to [LuizCarlosAbbott](https://github.com/LuizCarlosAbbott)
 
   ⭐️ Layout credits to [FatChicken277](https://github.com/FatChicken277)
