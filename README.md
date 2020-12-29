@@ -13,6 +13,8 @@
 🌙 Working mostly with Python and technologies such as REACT 
 <br>
 🌙 The signal processing field is my passion ♡
+<br>
+🌙 I enjoy reading danmei and knovels in my free time
 
 ## Languages/Technologies I've worked with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
