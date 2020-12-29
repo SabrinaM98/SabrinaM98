@@ -12,7 +12,7 @@
 <br>
 🌙 The signal processing field is my passion ♡
 
-### Languages I've worked with
+## Languages I've worked with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -22,7 +22,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
 
-### Technologies I've worked with
+## Technologies I've worked with
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
