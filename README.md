@@ -8,8 +8,6 @@
 
 🌙 Fluent in English and Brazilian Portuguese
 <br>
-🌙 Soon to graduate computer engineer student 
-<br>
 🌙 Working mostly with Python and technologies such as REACT 
 <br>
 🌙 The signal processing field is my passion ♡
