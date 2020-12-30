@@ -3,7 +3,6 @@
 # Hi, I'm Sabrina ฅ^•ﻌ•^ฅ
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrina-rolim-nobre-maia-32897a1a7/)](https://www.linkedin.com/in/sabrina-rolim-nobre-maia-32897a1a7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinarolim98@gmail.com)](mailto:sabrinarolim98@gmail.com)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rolim.sabrina@hotmail.com)](mailto:rolim.sabrina@hotmail.com)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/SabrinaM98)](https://github.com/SabrinaM98)
 
 🌙 Fluent in English and Brazilian Portuguese
@@ -47,6 +46,7 @@
 </details>
 
 <!--[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)-->
+<!--[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rolim.sabrina@hotmail.com)](mailto:rolim.sabrina@hotmail.com)-->
 <!--<details>
   <summary>:rocket: Credits</summary>
   ⭐️ Badges credits to [LuizCarlosAbbott](https://github.com/LuizCarlosAbbott)
