@@ -10,6 +10,8 @@
 🌙 Working mostly with Python and technologies such as REACT 
 <br>
 🌙 The signal processing field is my passion ♡
+<br>
+🌙 I have experience with hardware based languages such as VHDL and ASSEMBLY
 
 ## Languages I've worked with
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
