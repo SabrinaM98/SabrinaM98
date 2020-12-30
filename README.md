@@ -1,7 +1,7 @@
 <img align="right" width="350" height="454" src="https://github.com/SabrinaM98/SabrinaM98/blob/main/tumblr_e121ca98f2ee5e802f74e7b245cf335b_712b5409_400.gif">
 
 # Hi, I'm Sabrina ฅ^•ﻌ•^ฅ
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrina-rolim-nobre-maia-32897a1a7/)](https://www.linkedin.com/in/sabrina-rolim-nobre-maia-32897a1a7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinarolim98@gmail.com)](mailto:sabrinarolim98@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rolim.sabrina@hotmail.com)](mailto:rolim.sabrina@hotmail.com)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/SabrinaM98)](https://github.com/SabrinaM98)
