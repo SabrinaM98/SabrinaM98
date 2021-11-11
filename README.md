@@ -190,3 +190,6 @@
   </tr>
     
 </table>
+
+[![Sabrina's github activity graph](https://activity-graph.herokuapp.com/graph?username=SabrinaM98&theme=redical)](https://github.com/SabrinaM98/github-readme-activity-graph)
+
