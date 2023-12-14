@@ -14,7 +14,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrina-rolim-nobre-maia-32897a1a7/)](https://www.linkedin.com/in/sabrina-maia-32897a1a7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinarolim98@gmail.com)](mailto:sabrinarolim98@gmail.com)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/SabrinaM98)](https://github.com/SabrinaM98)
+<!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/SabrinaM98)](https://github.com/SabrinaM98)-->
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=github/SabrinaM98.visitor-badge&left_text=MyPageVisitors)
 
 <br>
 <h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
