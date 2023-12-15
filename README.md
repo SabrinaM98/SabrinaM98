@@ -39,18 +39,6 @@
       </a>
       <br>Django
     </td>
-<!--     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
-      </a>
-      <br>Azure
-    </td> -->
-    <td align="center" width="96">
-      <a href="#suhailakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
@@ -90,35 +78,11 @@
       </a>
       <br>Linux
     </td>
-<!--     <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td> -->
-<!--     <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td> -->
-<!--     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td> -->
-<!--     <td align="center"  width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td> -->
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
       </a>
-      <br>GraphQL
+      <br>SQL
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
@@ -146,12 +110,6 @@
       </a>
       <br>Bash
     </td>
-<!--     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td> -->
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
@@ -164,6 +122,39 @@
       </a>
       <br>Material ui
     </td>
+          <td align="center" width="96"> 
+      <a href="#suhailkakar-tech" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+  </tr>
+    
+</table>
+
+<!--[![Sabrina's github activity graph](https://activity-graph.herokuapp.com/graph?username=SabrinaM98&theme=redical)](https://github.com/SabrinaM98/github-readme-activity-graph)-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SabrinaM98&bg_color=141321&color=a9fef7&line=fe428e&point=f8d811&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<!--     <td align="center"  width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
+      </a>
+      <br>Gatsby
+    </td> -->
+<!--     <td align="center"  width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
+      </a>
+      <br>Electron
+    </td> -->
+<!--     <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td> -->
 <!--     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
@@ -176,22 +167,16 @@
       </a>
       <br>Redux
     </td> -->
-          <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+<!--<td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
       </a>
-      <br>Next JS
-    </td>
-<!--              <td align="center" width="96"> 
-      <a href="#suhailkakar-tech" >
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>G Cloud
+      <br>Azure
     </td> -->
-  </tr>
-    
-</table>
-
-<!--[![Sabrina's github activity graph](https://activity-graph.herokuapp.com/graph?username=SabrinaM98&theme=redical)](https://github.com/SabrinaM98/github-readme-activity-graph)-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SabrinaM98&bg_color=141321&color=a9fef7&line=fe428e&point=f8d811&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--     <td align="center" width="96">
+      <a href="#suhailakar-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td> -->
 
