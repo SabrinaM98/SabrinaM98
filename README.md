@@ -59,7 +59,7 @@
     </td>
      <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://github.com/SabrinaM98/SabrinaM98/blob/main/logoimage.png" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
@@ -80,7 +80,7 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+        <img src="https://github.com/SabrinaM98/SabrinaM98/blob/main/cq5dam.web.1280.1280.png" width="48" height="48" alt="GraphQL" />
       </a>
       <br>SQL
     </td>
@@ -160,6 +160,12 @@
         <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
       </a>
       <br>Flask
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
     </td>
      <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
