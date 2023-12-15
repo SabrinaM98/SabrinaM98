@@ -59,7 +59,7 @@
     </td>
      <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
-        <img src="https://github.com/SabrinaM98/SabrinaM98/blob/main/logoimage.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://github.com/SabrinaM98/SabrinaM98/blob/main/logo_mongo.png" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
@@ -80,7 +80,7 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
-        <img src="https://github.com/SabrinaM98/SabrinaM98/blob/main/cq5dam.web.1280.1280.png" width="48" height="48" alt="GraphQL" />
+        <img src="https://github.com/SabrinaM98/SabrinaM98/blob/main/logo_sql.png" width="48" height="48" alt="GraphQL" />
       </a>
       <br>SQL
     </td>
@@ -96,20 +96,6 @@
       </a>
       <br>PHP
     </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://github.com/SabrinaM98/SabrinaM98/blob/main/tailwind-removebg-preview.png" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
@@ -122,13 +108,27 @@
       </a>
       <br>Material ui
     </td>
+  </tr>
+<!--    <tr>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://github.com/SabrinaM98/SabrinaM98/blob/main/tailwind-removebg-preview.png" width="48" height="48" alt="TailWind" />
+      </a>
+      <br>TailWind
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
           <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
     </td>
-  </tr>
+  </tr> -->
     
 </table>
 
