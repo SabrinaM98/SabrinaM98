@@ -49,9 +49,9 @@
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://github.com/SabrinaM98/SabrinaM98/blob/main/download-removebg-preview.png" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Bootstrap
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
@@ -168,6 +168,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
       </a>
       <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
     </td>
      <td align="center" width="96"> 
       <a href="#suhailkakar-tech" >
