@@ -10,7 +10,7 @@
 - ⚙️: &nbsp;I love hardware languages such as **VHDL**
 - 📈: &nbsp;The **Signal Processing field** is my passion
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**!
-- Check out @saraselis @DiegoCrassus @marianafcruz17 @IsabelaPinheiro the amazing people that without whom I would not have reached so far!
+- Check out @saraselis @DiegoCrassus @IsabelaPinheiro the amazing people that without whom I would not have reached so far!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrina-rolim-nobre-maia-32897a1a7/)](https://www.linkedin.com/in/sabrina-maia-32897a1a7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sabrinarolim98@gmail.com)](mailto:sabrinarolim98@gmail.com)
