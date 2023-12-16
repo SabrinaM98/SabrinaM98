@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SabrinaM98&theme=radical&show_icons=true" alt="Sabrina stats" align="right" />
 </a>
 
-- :office: : &nbsp;Currently working at **Central IT**
+- :office: : &nbsp;Currently working with **ReactJS**
 - :seedling: : &nbsp;Currently learning **AI**
 - ⚙️: &nbsp;I love hardware languages such as **VHDL**
 - 📈: &nbsp;The **Signal Processing field** is my passion
